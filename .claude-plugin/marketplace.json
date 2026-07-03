@@ -1,0 +1,21 @@
+{
+  "name": "Keel Marketplace",
+  "description": "Official marketplace for Keel — AI-SDLC Operating System by Amar Nath Singh",
+  "plugins": [
+    {
+      "name": "keel",
+      "display_name": "Keel — AI-SDLC OS",
+      "description": "Governed AI delivery for any repository. 12 specialist agents, enforced handoffs, evidence-cited memory, token-saving codebase queries.",
+      "version": "2.1.0",
+      "source": {
+        "type": "github",
+        "repo": "creativemyntra/keel"
+      },
+      "author": "Amar Nath Singh",
+      "license": "MIT",
+      "homepage": "https://github.com/creativemyntra/keel",
+      "keywords": ["sdlc", "agents", "governance", "qa", "security", "jira", "playwright"],
+      "category": "workflow"
+    }
+  ]
+}
